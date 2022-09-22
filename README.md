@@ -3,9 +3,6 @@ Video <a href="https://youtu.be/nKTK_a5-N90">YouTube</a>
 
 
 
-Special Thanks  Hiru ❤
-
-
 # BaapG-Attack
 <a href="http://baapg1.github.io">BaapG</a>
 
