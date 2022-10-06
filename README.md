@@ -3,7 +3,7 @@
 Tap Y/N = N
 Video <a href="https://youtu.be/nKTK_a5-N90">YouTube</a>
 
-<a href="https://instagram.com/krish_na_2568">Contact Me</a> For Api ( making websites and script ) 
+<a href="https://instagram.com/krish_na_2568">Contact Me</a> For Api ( Use in Bombing websites and script ) 
 
 # BaapG-Attack
 
