@@ -1,4 +1,4 @@
-# *777*
+# * *
 
 Tap Y/N = N
 Video <a href="https://youtu.be/nKTK_a5-N90">YouTube</a>
