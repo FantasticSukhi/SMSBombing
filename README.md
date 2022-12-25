@@ -16,7 +16,7 @@ Video <a href="https://youtu.be/nKTK_a5-N90">YouTube</a>
      cd BaapGAttack
      python BaapG.py
      
-     👆👆👆This Is Mass Bombing
+     👆👆👆This Is
      
      if It's not working Then use
      
