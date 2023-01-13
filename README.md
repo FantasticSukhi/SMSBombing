@@ -12,7 +12,7 @@ Video <a href="https://youtu.be/nKTK_a5-N90">YouTube</a>
 
      Command👇
 
-     git clone https://github.com/Elliot290/BaapGAttack
+     git clone https://github.com/FantasticSukhi/SMSBombing
      cd BaapGAttack
      python BaapG.py
      
