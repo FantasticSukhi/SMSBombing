@@ -1,5 +1,5 @@
-# Python code Encrypted by BaapG
-# Thanks Hiru Ansh
+# Python code Encrypted by 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐌𝐁𝐀
+# Code created by 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐌𝐁𝐀
  
 
 import base64, codecs
